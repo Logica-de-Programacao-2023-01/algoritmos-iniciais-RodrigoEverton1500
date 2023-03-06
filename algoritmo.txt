@@ -1,1 +1,5 @@
-oi
+Ler x
+Ler y
+Soma = x + y
+Escreva Soma
+
